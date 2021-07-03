@@ -45,6 +45,8 @@ def Crawl_from_goodreads():
     category_str = ''
     list_category = []
     for page in range(1, 30000):
+        print('Fetching Book {}}'.format(page))
+
         description = ''
         category = ''
         title = ''
