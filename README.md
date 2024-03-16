@@ -2,7 +2,7 @@
 
 A large-scale Natural Language Processing (NLP) project was undertaken within the domain of Big Data, leveraging Microsoft Azure Databricks. 
 
-The primary objective was to process and analyze summaries of various books sourced from diverse endpoints, notably including [https://www.goodreads.com](https://www.goodreads.com), utilizing web scraping techniques facilitated by the selenium library.
+The primary objective was to process and analyze summaries of various books sourced from diverse endpoints, notably including [https://www.goodreads.com](https://www.goodreads.com), utilizing web scraping techniques facilitated by the `selenium` library.
 
 To enhance the efficiency of the scraping process, the project module was containerized using Docker and deployed onto a server infrastructure. This strategic move significantly accelerated the data retrieval process, enabling seamless extraction and ingestion of book summaries from multiple sources.
 
